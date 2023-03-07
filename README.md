@@ -1,7 +1,6 @@
 # Face Morphing with Python
-## Using OpenCV and dlib
-### Face morphing is a technique that involves blending two or more images of faces together in order to create a new image that appears to be a hybrid of the original faces. [Code Source](https://github.com/Azmarie/Face-Morphing/)
-#### Libraries Used:
+## Face morphing is a technique that involves blending two or more images of faces together in order to create a new image that appears to be a hybrid of the original faces. [Code Source](https://github.com/Azmarie/Face-Morphing/)
+### Libraries Used:
  1. glob 
  2. os 
  3. sys 
